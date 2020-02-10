@@ -1,2 +1,2 @@
 # low-level-projects
-CIS 2107
+Projects for CIS 2107
